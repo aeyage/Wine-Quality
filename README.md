@@ -1,2 +1,4 @@
 # Wine-Quality
-A project of CPC152 Foundations and Programming for Data Analytics developed by a team of 7 in Semester 2 of Academic Year 21/22
+A machine learning model to determine which physiochemical properties make a wine 'good'.
+------------------------------------------------------------------------------------------
+Our team picked KNN (K-Nearest Neighbors), Decision Trees, and SVM (Support Vector Machine) to in a quest to pick out the champions model.
